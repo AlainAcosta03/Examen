@@ -1,0 +1,98 @@
+[
+    {
+        "precio": 150,
+        "id": 1,
+        "title": "Ramlethal Cloak",
+        "categoria": "Clothes",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/ggs/1.webp"
+    },
+
+    {
+        "precio": 75,
+        "id": 2,
+        "title": "Happy Chaos Sweatshirt",
+        "categoria": "Clothes",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/ggs/2.webp"
+    },
+
+    {
+        "precio": 80,
+        "id": 3,
+        "title": "May hoddie",
+        "categoria": "Clothes",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/ggs/3.webp"
+    },
+
+    {
+        "precio": 120,
+        "id": 4,
+        "title": "ROGER",
+        "categoria": "Plushie",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/ggs/4.webp"
+    },
+
+    {
+        "precio": 30,
+        "id": 5,
+        "title": "Ramlethal hat",
+        "categoria": "Clothes",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/ggs/5.webp"
+    },
+
+    {
+        "precio": 20,
+        "id": 6,
+        "title": "Bridget Yoyo",
+        "categoria": "Keychain",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/ggs/6.webp"
+    },
+
+    {
+        "precio": 50,
+        "id": 7,
+        "title": "Rei",
+        "categoria": "Plushie",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/ggs/7.webp"
+    },
+
+    {
+        "precio": 20,
+        "id": 8,
+        "title": "Jack-O",
+        "categoria": "Keychain",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/ggs/8.webp"
+    },
+
+    {
+        "precio": 50,
+        "id": 9,
+        "title": "Nagoriyuki Desk Mat",
+        "categoria": "Desk Mat",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/ggs/9.webp"
+    },
+
+    {
+        "precio": 50,
+        "id": 10,
+        "title": "Giovanna Desk Mat",
+        "categoria": "Desk Mat",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/ggs/10.webp"
+    },
+
+    {
+        "precio": 50,
+        "id": 11,
+        "title": "Zato Desk Mat",
+        "categoria": "Desk Mat",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/ggs/11.webp"
+    },
+
+    {
+        "precio": 30,
+        "id": 12,
+        "title": "Markers set",
+        "categoria": "Markers",
+        "thumbnailUrl":"https://peak-asterisks.000webhostapp.com/HTML%20Adaptativo/ggs/12.webp"
+    }
+
+]

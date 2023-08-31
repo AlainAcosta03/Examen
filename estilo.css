@@ -1,0 +1,41 @@
+body{
+    font-family: Impact;
+    color: white;
+}
+
+.cuerpo {
+    display: grid;
+    grid-template: auto 1fr auto / auto 1fr auto;
+}
+
+header {
+    padding: 2rem;
+    grid-column: 1 / 4;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+main {
+grid-column: 2 / 3;
+background-color: rgb(95, 8, 8);
+}
+
+footer {
+    padding: 2rem;
+    grid-column: 1 / 4;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.card{
+    background-color: rgb(235, 235, 235);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    align-items: center;
+    margin: 5px;
+}
+.bg-w{
+    background-color: white;
+}
